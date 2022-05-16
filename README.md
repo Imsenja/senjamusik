@@ -14,7 +14,7 @@
 <summary><b>🚀 sᴛʀɪɴɢ sᴇssɪᴏɴ</b></summary>
 <br>
 <h4>ᴀᴍʙɪʟ sᴇssɪᴏɴ ᴠɪᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇʟᴀʟᴜɪ sᴇɴᴊᴀ sᴛʀɪɴɢ ʙᴏᴛ: </h4>    
-<p><a href="https://t.me/senjastring_robot"><img src="https://img.shields.io/badge/xa%20string%20bot-black?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://t.me/senjastring_robot"><img src="https://img.shields.io/badge/senja%20string%20bot-black?style=for-the-badge&logo=appveyor" width="200""/></a></p>
     
 </details>
 
