@@ -23,7 +23,7 @@
 <br>
 
 <h4>ᴋʟɪᴋ ᴛᴏᴍʙᴏʟ ᴅɪʙᴀᴡᴀʜ ɪɴɪ ᴜɴᴛᴜᴋ ᴍᴇɴ ᴅᴇᴘʟᴏʏ sᴇɴᴊᴀ ᴍᴜsɪᴄ  ᴅɪʜᴇʀᴏᴋᴜ!</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/Itsmesenja/SenjaMusic/tree/master"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>    
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/Itsmesenja/Senjamusik/tree/master"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>    
 
 </details>
 
