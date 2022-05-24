@@ -1,5 +1,5 @@
 {
-  "name": "Senja Music",
+  "name": "Senja Musik",
   "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
   "logo": "https://telegra.ph/file/bff5d4e397b846503b514.jpg",
   "keywords": [
@@ -48,7 +48,7 @@
     },
     "SUPPORT_CHANNEL": {
       "description": "Link Channel Support mu, Jika Tidak ada Silahkan /skip . Link harus berawalan https://t.me/",
-      "value": "https://t.me/itsmesejah",
+      "value": "https://t.me/itsmesenjah",
       "required": false
     },
     "SUPPORT_GROUP": {
@@ -98,7 +98,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "Silahkan /skip saja ",
-      "value": "https://github.com/Itsmesenja/senjamusic",
+      "value": "https://github.com/Imsenja/senjamusik",
       "required": true
     },
     "UPSTREAM_BRANCH": {
